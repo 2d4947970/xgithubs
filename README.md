@@ -3,6 +3,9 @@
 
 github 自动加星软件 github star 点赞， fork follow watch 等功能， 可以下载插件  [下载github点赞加星插件](http://xgithubs.com/install2.zip)
 
+插件地址： http://xgithubs.com/install2.zip
+
+
 ### xgithubs.com 专注于 github 服务
 
 这项服务如何运作？
