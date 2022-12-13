@@ -1,7 +1,7 @@
 # xgithubs.com
 推荐个github 加星工具， 自动加星的哦，以前是免费的
 
-github 自动加星软件 github star 点赞， fork follow watch 等功能， 可以下载如下插件  [下载github 点赞加星插件](http://xgithubs.com/install2.zip)
+github 自动加星软件 github star 点赞， fork follow watch 等功能， 可以下载插件  [下载github点赞加星插件](http://xgithubs.com/install2.zip)
 
 ### xgithubs.com 专注于 github 服务
 
